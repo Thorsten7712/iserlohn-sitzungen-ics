@@ -1,0 +1,7 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Local data
+/tmp/
+cache/
