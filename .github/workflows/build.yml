@@ -1,0 +1,35 @@
+name: Build filtered ICS
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # GitHub Actions cron ist UTC. 05:00 Europe/Berlin ≙ 03:00 UTC (Sommerzeit),
+    # im Winter 04:00 UTC. Wir wählen 03:30 UTC als Kompromiss; läuft ganzjährig vor 05:00 Berlin.
+    - cron: "30 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run build script
+        run: |
+          python3 scripts/build.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update filtered ICS calendars"
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          file_pattern: docs/**
