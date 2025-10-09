@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251008T162407
+DTSTAMP;TZID=Europe/Berlin:20251009T061817
 DTSTART;TZID=Europe/Berlin:20250828T170000
 DTEND;TZID=Europe/Berlin:20250829T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:ENTFÄLLT - Stadtmarketing-Beirat
 LOCATION;LANGUAGE=de:Sitzungsraum U-163a des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 08.10.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=28&MM=8&YY=2025
+DESCRIPTION;LANGUAGE=de:Exportiert am 09.10.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=28&MM=8&YY=2025
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=28&MM=8&YY=2025
 
 END:VEVENT
