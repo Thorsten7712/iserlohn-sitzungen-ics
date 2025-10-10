@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251009T071132
+DTSTAMP;TZID=Europe/Berlin:20251010T061750
 DTSTART;TZID=Europe/Berlin:20251030T170000
 DTEND;TZID=Europe/Berlin:20251031T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Seniorenbeirat
 LOCATION;LANGUAGE=de:Ratssaal des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 09.10.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=30&MM=10&YY=2025
+DESCRIPTION;LANGUAGE=de:Exportiert am 10.10.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=30&MM=10&YY=2025
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=30&MM=10&YY=2025
 
 END:VEVENT
@@ -36,13 +36,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251009T071132
+DTSTAMP;TZID=Europe/Berlin:20251010T061750
 DTSTART;TZID=Europe/Berlin:20250827T170000
 DTEND;TZID=Europe/Berlin:20250827T183000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Seniorenbeirat
 LOCATION;LANGUAGE=de:Cafeteria des Seniorenzentrums Waldstadt Iserlohn\, Alexanderstr. 1\, 58644 Iserlohn
-DESCRIPTION;LANGUAGE=de:Exportiert am 09.10.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001937
+DESCRIPTION;LANGUAGE=de:Exportiert am 10.10.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001937
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001937
 
 END:VEVENT
