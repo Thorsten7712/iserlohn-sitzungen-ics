@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251010T071134
+DTSTAMP;TZID=Europe/Berlin:20251011T061718
 DTSTART;TZID=Europe/Berlin:20250902T170000
 DTEND;TZID=Europe/Berlin:20250902T183200
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Betriebsausschuss Kommunales Immobilien Management
 LOCATION;LANGUAGE=de:Ratssaal des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 10.10.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001941
+DESCRIPTION;LANGUAGE=de:Exportiert am 11.10.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001941
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001941
 
 END:VEVENT
