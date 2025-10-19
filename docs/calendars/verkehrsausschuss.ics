@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251018T071016
+DTSTAMP;TZID=Europe/Berlin:20251019T061847
 DTSTART;TZID=Europe/Berlin:20250910T170000
 DTEND;TZID=Europe/Berlin:20250910T194000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Verkehrsausschuss
 LOCATION;LANGUAGE=de:Ratssaal des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 18.10.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001948
+DESCRIPTION;LANGUAGE=de:Exportiert am 19.10.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001948
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001948
 
 END:VEVENT
