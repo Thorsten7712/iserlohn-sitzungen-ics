@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251020T071223
+DTSTAMP;TZID=Europe/Berlin:20251021T061822
 DTSTART;TZID=Europe/Berlin:20250909T170000
 DTEND;TZID=Europe/Berlin:20250910T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:formale Gründe - Unterausschuss Jugendhilfeplanung
 LOCATION;LANGUAGE=de:Ratssaal des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 20.10.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=9&MM=9&YY=2025
+DESCRIPTION;LANGUAGE=de:Exportiert am 21.10.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=9&MM=9&YY=2025
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=9&MM=9&YY=2025
 
 END:VEVENT

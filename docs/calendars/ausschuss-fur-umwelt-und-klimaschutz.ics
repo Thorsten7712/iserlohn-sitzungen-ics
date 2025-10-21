@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251020T071223
+DTSTAMP;TZID=Europe/Berlin:20251021T061822
 DTSTART;TZID=Europe/Berlin:20250930T170000
 DTEND;TZID=Europe/Berlin:20250930T180800
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Ausschuss für Umwelt- und Klimaschutz
 LOCATION;LANGUAGE=de:Sitzungsraum U-163a des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 20.10.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001962
+DESCRIPTION;LANGUAGE=de:Exportiert am 21.10.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001962
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001962
 
 END:VEVENT
