@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251024T071123
+DTSTAMP;TZID=Europe/Berlin:20251025T061734
 DTSTART;TZID=Europe/Berlin:20250903T170000
 DTEND;TZID=Europe/Berlin:20250904T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:ENTFÄLLT - Sportausschuss
 LOCATION;LANGUAGE=de:Ratssaal des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 24.10.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=3&MM=9&YY=2025
+DESCRIPTION;LANGUAGE=de:Exportiert am 25.10.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=3&MM=9&YY=2025
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=3&MM=9&YY=2025
 
 END:VEVENT
