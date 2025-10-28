@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251027T061232
+DTSTAMP;TZID=Europe/Berlin:20251028T051829
 DTSTART;TZID=Europe/Berlin:20251203T170000
 DTEND;TZID=Europe/Berlin:20251204T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Jugendhilfeausschuss
 LOCATION;LANGUAGE=de:Ratssaal des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 27.10.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=3&MM=12&YY=2025
+DESCRIPTION;LANGUAGE=de:Exportiert am 28.10.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=3&MM=12&YY=2025
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=3&MM=12&YY=2025
 
 END:VEVENT
@@ -36,13 +36,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251027T061232
+DTSTAMP;TZID=Europe/Berlin:20251028T051829
 DTSTART;TZID=Europe/Berlin:20251001T170000
 DTEND;TZID=Europe/Berlin:20251001T181000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Jugendhilfeausschuss
 LOCATION;LANGUAGE=de:Ratssaal des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 27.10.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001963
+DESCRIPTION;LANGUAGE=de:Exportiert am 28.10.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001963
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001963
 
 END:VEVENT
