@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251105T061235
+DTSTAMP;TZID=Europe/Berlin:20251106T052149
 DTSTART;TZID=Europe/Berlin:20250925T170500
 DTEND;TZID=Europe/Berlin:20250925T191500
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Schulausschuss
 LOCATION;LANGUAGE=de:Grundschule Im Wiesengrund
-DESCRIPTION;LANGUAGE=de:Exportiert am 05.11.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001960
+DESCRIPTION;LANGUAGE=de:Exportiert am 06.11.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001960
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001960
 
 END:VEVENT
