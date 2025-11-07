@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251106T061217
+DTSTAMP;TZID=Europe/Berlin:20251107T051836
 DTSTART;TZID=Europe/Berlin:20251030T170000
 DTEND;TZID=Europe/Berlin:20251030T174500
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Seniorenbeirat
 LOCATION;LANGUAGE=de:Ratssaal des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 06.11.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002286
+DESCRIPTION;LANGUAGE=de:Exportiert am 07.11.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002286
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002286
 
 END:VEVENT
