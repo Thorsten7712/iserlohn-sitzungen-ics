@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251109T061113
+DTSTAMP;TZID=Europe/Berlin:20251110T052349
 DTSTART;TZID=Europe/Berlin:20251002T170000
 DTEND;TZID=Europe/Berlin:20251002T182200
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Sozialausschuss
 LOCATION;LANGUAGE=de:Ratssaal des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 09.11.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002395
+DESCRIPTION;LANGUAGE=de:Exportiert am 10.11.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002395
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002395
 
 END:VEVENT
@@ -36,13 +36,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251109T061113
+DTSTAMP;TZID=Europe/Berlin:20251110T052349
 DTSTART;TZID=Europe/Berlin:20250917T170000
 DTEND;TZID=Europe/Berlin:20250918T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:ENTFÄLLT - Sozialausschuss
 LOCATION;LANGUAGE=de:
-DESCRIPTION;LANGUAGE=de:Exportiert am 09.11.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=17&MM=9&YY=2025
+DESCRIPTION;LANGUAGE=de:Exportiert am 10.11.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=17&MM=9&YY=2025
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=17&MM=9&YY=2025
 
 END:VEVENT
