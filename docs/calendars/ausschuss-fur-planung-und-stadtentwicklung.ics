@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251110T061315
+DTSTAMP;TZID=Europe/Berlin:20251111T052034
 DTSTART;TZID=Europe/Berlin:20251126T170000
 DTEND;TZID=Europe/Berlin:20251127T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Ausschuss für Planung und Stadtentwicklung
 LOCATION;LANGUAGE=de:Ratssaal des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 10.11.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=26&MM=11&YY=2025
+DESCRIPTION;LANGUAGE=de:Exportiert am 11.11.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=26&MM=11&YY=2025
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=26&MM=11&YY=2025
 
 END:VEVENT
@@ -36,13 +36,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251110T061315
+DTSTAMP;TZID=Europe/Berlin:20251111T052034
 DTSTART;TZID=Europe/Berlin:20250917T170000
 DTEND;TZID=Europe/Berlin:20250917T173500
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Ausschuss für Planung und Stadtentwicklung
 LOCATION;LANGUAGE=de:Ratssaal des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 10.11.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001953
+DESCRIPTION;LANGUAGE=de:Exportiert am 11.11.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001953
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001953
 
 END:VEVENT
