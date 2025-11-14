@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251113T061248
+DTSTAMP;TZID=Europe/Berlin:20251114T051924
 DTSTART;TZID=Europe/Berlin:20251204T170000
 DTEND;TZID=Europe/Berlin:20251205T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Beirat für Inklusion
 LOCATION;LANGUAGE=de:Ratssaal des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 13.11.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=4&MM=12&YY=2025
+DESCRIPTION;LANGUAGE=de:Exportiert am 14.11.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=4&MM=12&YY=2025
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=4&MM=12&YY=2025
 
 END:VEVENT
@@ -36,13 +36,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251113T061248
+DTSTAMP;TZID=Europe/Berlin:20251114T051924
 DTSTART;TZID=Europe/Berlin:20250924T170000
 DTEND;TZID=Europe/Berlin:20250924T174500
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Beirat für Inklusion
 LOCATION;LANGUAGE=de:Ratssaal des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 13.11.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001959
+DESCRIPTION;LANGUAGE=de:Exportiert am 14.11.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001959
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001959
 
 END:VEVENT
