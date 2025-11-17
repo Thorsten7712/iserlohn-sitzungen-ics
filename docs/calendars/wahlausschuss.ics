@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251116T061122
+DTSTAMP;TZID=Europe/Berlin:20251117T052234
 DTSTART;TZID=Europe/Berlin:20251002T170000
 DTEND;TZID=Europe/Berlin:20251002T170100
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Wahlausschuss
 LOCATION;LANGUAGE=de:Sitzungsraum 028 des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 16.11.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002192
+DESCRIPTION;LANGUAGE=de:Exportiert am 17.11.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002192
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002192
 
 END:VEVENT
