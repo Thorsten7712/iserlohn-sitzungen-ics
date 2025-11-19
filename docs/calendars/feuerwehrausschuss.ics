@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251118T061221
+DTSTAMP;TZID=Europe/Berlin:20251119T051943
 DTSTART;TZID=Europe/Berlin:20250925T170000
 DTEND;TZID=Europe/Berlin:20250925T191000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Feuerwehrausschuss
 LOCATION;LANGUAGE=de:Feuerwehrgerätehaus\, Am Ostbahnhof 16\, 58644 Iserlohn
-DESCRIPTION;LANGUAGE=de:Exportiert am 18.11.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001993
+DESCRIPTION;LANGUAGE=de:Exportiert am 19.11.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001993
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2001993
 
 END:VEVENT
