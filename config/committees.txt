@@ -1,14 +1,21 @@
 Rat der Stadt Iserlohn
 CDU-Fraktion
+SPD-Fraktion
+Fraktion DieISERLOHNER
+Fraktion Bündnis 90/Die Grünen
+Fraktion DIE LINKE
+AfD-Fraktion
+FDP-Ratsgruppe
 Haupt- und Personalausschuss
 Rechnungsprüfungsausschuss
-Ausschuss für Bürgeranregungen und Beschwerden
-Ausschuss für Digitalisierung und Zukunft
+Ausschuss für Bürgerbeteiligung
+Digitalausschuss
 Finanzausschuss
 Ausschuss für Planung und Stadtentwicklung
 Feuerwehrausschuss
 Betriebsausschuss Kommunales Immobilien Management
 Betriebsausschuss Seniorenzentrum Waldstadt Iserlohn
+Ausschuss für Chancengerechtigkeit und Integration
 Jugendhilfeausschuss
 Kulturausschuss
 Schulausschuss
@@ -19,7 +26,6 @@ Ausschuss für Umwelt- und Klimaschutz
 Wahlausschuss
 Wahlprüfungsausschuss
 Beirat für Inklusion
-Integrationsrat
 Seniorenbeirat
 Stadtmarketing-Beirat
 Unterausschuss Jugendhilfeplanung
