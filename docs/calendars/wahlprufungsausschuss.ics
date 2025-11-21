@@ -18,14 +18,14 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251120T061238
+DTSTAMP;TZID=Europe/Berlin:20251121T051907
 DTSTART;TZID=Europe/Berlin:20251127T170000
 DTEND;TZID=Europe/Berlin:20251128T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Wahlprüfungsausschuss
 LOCATION;LANGUAGE=de:Ratssaal des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 20.11.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=27&MM=11&YY=2025
-URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=27&MM=11&YY=2025
+DESCRIPTION;LANGUAGE=de:Exportiert am 21.11.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002119
+URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002119
 
 END:VEVENT
 END:VCALENDAR
