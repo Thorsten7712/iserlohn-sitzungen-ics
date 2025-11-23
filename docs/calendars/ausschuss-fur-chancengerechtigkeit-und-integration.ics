@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251122T061057
+DTSTAMP;TZID=Europe/Berlin:20251123T052955
 DTSTART;TZID=Europe/Berlin:20251211T170000
 DTEND;TZID=Europe/Berlin:20251212T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Ausschuss für Chancengerechtigkeit und Integration
 LOCATION;LANGUAGE=de:Ratssaal des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 22.11.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=11&MM=12&YY=2025
+DESCRIPTION;LANGUAGE=de:Exportiert am 23.11.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=11&MM=12&YY=2025
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=11&MM=12&YY=2025
 
 END:VEVENT
