@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 PRODID:-//Iserlohn ICS Split//github.com//EN
 VERSION:2.0
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Sitzungen – Feuerwehrausschuss
+X-WR-CALNAME:Sitzungen – Digitalausschuss
 BEGIN:VTIMEZONE
 TZID:Europe/Berlin
 TZOFFSETFROM:+0100
@@ -11,7 +11,7 @@ TZOFFSETFROM:+0200
 TZOFFSETTO:+0100
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ALLRIS-Sitzung-2002523
+UID:ALLRIS-Sitzung-2002533
 PRIORITY:2
 CLASS:PUBLIC
 X-APPLE-CALENDAR-COLOR:#000000
@@ -19,13 +19,13 @@ X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
 DTSTAMP;TZID=Europe/Berlin:20251126T052136
-DTSTART;TZID=Europe/Berlin:20260115T170000
-DTEND;TZID=Europe/Berlin:20260116T000000
+DTSTART;TZID=Europe/Berlin:20260122T170000
+DTEND;TZID=Europe/Berlin:20260123T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-SUMMARY;LANGUAGE=de:Feuerwehrausschuss
+SUMMARY;LANGUAGE=de:Digitalausschuss
 LOCATION;LANGUAGE=de:
-DESCRIPTION;LANGUAGE=de:Exportiert am 26.11.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=15&MM=1&YY=2026
-URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=15&MM=1&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 26.11.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=22&MM=1&YY=2026
+URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=22&MM=1&YY=2026
 
 END:VEVENT
 END:VCALENDAR
