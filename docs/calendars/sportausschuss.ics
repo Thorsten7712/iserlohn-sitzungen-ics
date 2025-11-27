@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 PRODID:-//Iserlohn ICS Split//github.com//EN
 VERSION:2.0
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Sitzungen – Verkehrsausschuss
+X-WR-CALNAME:Sitzungen – Sportausschuss
 BEGIN:VTIMEZONE
 TZID:Europe/Berlin
 TZOFFSETFROM:+0100
@@ -11,7 +11,7 @@ TZOFFSETFROM:+0200
 TZOFFSETTO:+0100
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ALLRIS-Sitzung-2002524
+UID:ALLRIS-Sitzung-2002534
 PRIORITY:2
 CLASS:PUBLIC
 X-APPLE-CALENDAR-COLOR:#000000
@@ -19,13 +19,13 @@ X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
 DTSTAMP;TZID=Europe/Berlin:20251127T051959
-DTSTART;TZID=Europe/Berlin:20260121T170000
-DTEND;TZID=Europe/Berlin:20260122T000000
+DTSTART;TZID=Europe/Berlin:20260205T170000
+DTEND;TZID=Europe/Berlin:20260206T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-SUMMARY;LANGUAGE=de:Verkehrsausschuss
+SUMMARY;LANGUAGE=de:Sportausschuss
 LOCATION;LANGUAGE=de:
-DESCRIPTION;LANGUAGE=de:Exportiert am 27.11.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=21&MM=1&YY=2026
-URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=21&MM=1&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 27.11.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=5&MM=2&YY=2026
+URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=5&MM=2&YY=2026
 
 END:VEVENT
 END:VCALENDAR
