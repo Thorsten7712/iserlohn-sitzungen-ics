@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251127T061251
+DTSTAMP;TZID=Europe/Berlin:20251128T051948
 DTSTART;TZID=Europe/Berlin:20260114T170000
 DTEND;TZID=Europe/Berlin:20260115T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Betriebsausschuss Kommunales Immobilien Management
 LOCATION;LANGUAGE=de:
-DESCRIPTION;LANGUAGE=de:Exportiert am 27.11.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=14&MM=1&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 28.11.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=14&MM=1&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=14&MM=1&YY=2026
 
 END:VEVENT
