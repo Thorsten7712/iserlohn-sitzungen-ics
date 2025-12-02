@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251201T062111
+DTSTAMP;TZID=Europe/Berlin:20251202T052712
 DTSTART;TZID=Europe/Berlin:20260121T170000
 DTEND;TZID=Europe/Berlin:20260122T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Verkehrsausschuss
 LOCATION;LANGUAGE=de:
-DESCRIPTION;LANGUAGE=de:Exportiert am 01.12.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=21&MM=1&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 02.12.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=21&MM=1&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=21&MM=1&YY=2026
 
 END:VEVENT
