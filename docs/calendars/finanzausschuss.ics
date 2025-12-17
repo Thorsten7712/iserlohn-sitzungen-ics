@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251216T061512
+DTSTAMP;TZID=Europe/Berlin:20251217T052932
 DTSTART;TZID=Europe/Berlin:20260211T170000
 DTEND;TZID=Europe/Berlin:20260212T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Finanzausschuss
 LOCATION;LANGUAGE=de:Saalbau Letmathe
-DESCRIPTION;LANGUAGE=de:Exportiert am 16.12.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=11&MM=2&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 17.12.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=11&MM=2&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=11&MM=2&YY=2026
 
 END:VEVENT
@@ -36,13 +36,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251216T061512
+DTSTAMP;TZID=Europe/Berlin:20251217T052932
 DTSTART;TZID=Europe/Berlin:20251202T170000
 DTEND;TZID=Europe/Berlin:20251202T175700
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Finanzausschuss
 LOCATION;LANGUAGE=de:Ratssaal des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 16.12.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002120
+DESCRIPTION;LANGUAGE=de:Exportiert am 17.12.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002120
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002120
 
 END:VEVENT
