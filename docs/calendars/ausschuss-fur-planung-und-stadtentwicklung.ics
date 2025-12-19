@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251218T061528
+DTSTAMP;TZID=Europe/Berlin:20251219T053047
 DTSTART;TZID=Europe/Berlin:20260204T170000
 DTEND;TZID=Europe/Berlin:20260205T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Ausschuss für Planung und Stadtentwicklung
 LOCATION;LANGUAGE=de:Saalbau Letmathe
-DESCRIPTION;LANGUAGE=de:Exportiert am 18.12.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=4&MM=2&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 19.12.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=4&MM=2&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=4&MM=2&YY=2026
 
 END:VEVENT
@@ -36,13 +36,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251218T061528
+DTSTAMP;TZID=Europe/Berlin:20251219T053047
 DTSTART;TZID=Europe/Berlin:20251126T170000
 DTEND;TZID=Europe/Berlin:20251126T180000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Ausschuss für Planung und Stadtentwicklung
 LOCATION;LANGUAGE=de:Ratssaal des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 18.12.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002118
+DESCRIPTION;LANGUAGE=de:Exportiert am 19.12.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002118
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002118
 
 END:VEVENT
