@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251223T061641
+DTSTAMP;TZID=Europe/Berlin:20251224T053234
 DTSTART;TZID=Europe/Berlin:20260210T170000
 DTEND;TZID=Europe/Berlin:20260211T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Ausschuss für Umwelt- und Klimaschutz
 LOCATION;LANGUAGE=de:Saalbau Letmathe
-DESCRIPTION;LANGUAGE=de:Exportiert am 23.12.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=10&MM=2&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 24.12.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=10&MM=2&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=10&MM=2&YY=2026
 
 END:VEVENT
