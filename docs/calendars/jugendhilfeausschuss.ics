@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251228T061655
+DTSTAMP;TZID=Europe/Berlin:20251229T054456
 DTSTART;TZID=Europe/Berlin:20260127T170000
 DTEND;TZID=Europe/Berlin:20260128T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Jugendhilfeausschuss
 LOCATION;LANGUAGE=de:Saalbau Letmathe
-DESCRIPTION;LANGUAGE=de:Exportiert am 28.12.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=27&MM=1&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 29.12.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=27&MM=1&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=27&MM=1&YY=2026
 
 END:VEVENT
@@ -36,13 +36,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251228T061655
+DTSTAMP;TZID=Europe/Berlin:20251229T054456
 DTSTART;TZID=Europe/Berlin:20251203T170000
 DTEND;TZID=Europe/Berlin:20251203T190300
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Jugendhilfeausschuss
 LOCATION;LANGUAGE=de:Ratssaal des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 28.12.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002121
+DESCRIPTION;LANGUAGE=de:Exportiert am 29.12.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002121
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002121
 
 END:VEVENT
