@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251229T062121
+DTSTAMP;TZID=Europe/Berlin:20251230T053558
 DTSTART;TZID=Europe/Berlin:20260129T170000
 DTEND;TZID=Europe/Berlin:20260130T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Schulausschuss
 LOCATION;LANGUAGE=de:Saalbau Letmathe
-DESCRIPTION;LANGUAGE=de:Exportiert am 29.12.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=29&MM=1&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 30.12.2025\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=29&MM=1&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=29&MM=1&YY=2026
 
 END:VEVENT
@@ -36,13 +36,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20251229T062121
+DTSTAMP;TZID=Europe/Berlin:20251230T053558
 DTSTART;TZID=Europe/Berlin:20251204T170000
 DTEND;TZID=Europe/Berlin:20251205T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Schulausschuss
 LOCATION;LANGUAGE=de:Grundschule Hennen
-DESCRIPTION;LANGUAGE=de:Exportiert am 29.12.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002520
+DESCRIPTION;LANGUAGE=de:Exportiert am 30.12.2025\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002520
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002520
 
 END:VEVENT
