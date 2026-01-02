@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260101T062001
+DTSTAMP;TZID=Europe/Berlin:20260102T053642
 DTSTART;TZID=Europe/Berlin:20260120T170000
 DTEND;TZID=Europe/Berlin:20260121T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Sozialausschuss
 LOCATION;LANGUAGE=de:Saalbau Letmathe
-DESCRIPTION;LANGUAGE=de:Exportiert am 01.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=20&MM=1&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 02.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=20&MM=1&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=20&MM=1&YY=2026
 
 END:VEVENT
