@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260107T061805
+DTSTAMP;TZID=Europe/Berlin:20260108T053548
 DTSTART;TZID=Europe/Berlin:20260422T170000
 DTEND;TZID=Europe/Berlin:20260423T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Ausschuss für Planung und Stadtentwicklung
 LOCATION;LANGUAGE=de:
-DESCRIPTION;LANGUAGE=de:Exportiert am 07.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=22&MM=4&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 08.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=22&MM=4&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=22&MM=4&YY=2026
 
 END:VEVENT
@@ -36,13 +36,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260107T061805
+DTSTAMP;TZID=Europe/Berlin:20260108T053548
 DTSTART;TZID=Europe/Berlin:20260204T170000
 DTEND;TZID=Europe/Berlin:20260205T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Ausschuss für Planung und Stadtentwicklung
 LOCATION;LANGUAGE=de:Saalbau Letmathe
-DESCRIPTION;LANGUAGE=de:Exportiert am 07.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=4&MM=2&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 08.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=4&MM=2&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=4&MM=2&YY=2026
 
 END:VEVENT
@@ -54,13 +54,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260107T061805
+DTSTAMP;TZID=Europe/Berlin:20260108T053548
 DTSTART;TZID=Europe/Berlin:20251126T170000
 DTEND;TZID=Europe/Berlin:20251126T180000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Ausschuss für Planung und Stadtentwicklung
 LOCATION;LANGUAGE=de:Ratssaal des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 07.01.2026\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002118
+DESCRIPTION;LANGUAGE=de:Exportiert am 08.01.2026\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002118
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002118
 
 END:VEVENT
