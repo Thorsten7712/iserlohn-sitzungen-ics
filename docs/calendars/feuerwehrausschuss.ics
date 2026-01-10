@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260109T061747
+DTSTAMP;TZID=Europe/Berlin:20260110T053024
 DTSTART;TZID=Europe/Berlin:20260115T170000
 DTEND;TZID=Europe/Berlin:20260116T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Feuerwehrausschuss
 LOCATION;LANGUAGE=de:Saalbau Letmathe
-DESCRIPTION;LANGUAGE=de:Exportiert am 09.01.2026\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002523
+DESCRIPTION;LANGUAGE=de:Exportiert am 10.01.2026\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002523
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002523
 
 END:VEVENT
