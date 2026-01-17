@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 PRODID:-//Iserlohn ICS Split//github.com//EN
 VERSION:2.0
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Sitzungen – Verkehrsausschuss
+X-WR-CALNAME:Sitzungen – Betriebsausschuss Seniorenzentrum Waldstadt Iserlohn
 BEGIN:VTIMEZONE
 TZID:Europe/Berlin
 TZOFFSETFROM:+0100
@@ -11,7 +11,7 @@ TZOFFSETFROM:+0200
 TZOFFSETTO:+0100
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ALLRIS-Sitzung-2002684
+UID:ALLRIS-Sitzung-2002685
 PRIORITY:2
 CLASS:PUBLIC
 X-APPLE-CALENDAR-COLOR:#000000
@@ -22,14 +22,14 @@ DTSTAMP;TZID=Europe/Berlin:20260117T052858
 DTSTART;TZID=Europe/Berlin:20261124T170000
 DTEND;TZID=Europe/Berlin:20261125T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-SUMMARY;LANGUAGE=de:Verkehrsausschuss
-LOCATION;LANGUAGE=de:Sitzungssaal Reiterweg
+SUMMARY;LANGUAGE=de:Betriebsausschuss Seniorenzentrum Waldstadt Iserlohn
+LOCATION;LANGUAGE=de:Veranstaltungsraum des Seniorenzentrum Waldstadt Iserlohn\, Alexanderstraße 1\, 58644 Iserlohn
 DESCRIPTION;LANGUAGE=de:Exportiert am 17.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=24&MM=11&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=24&MM=11&YY=2026
 
 END:VEVENT
 BEGIN:VEVENT
-UID:ALLRIS-Sitzung-2002668
+UID:ALLRIS-Sitzung-2002669
 PRIORITY:2
 CLASS:PUBLIC
 X-APPLE-CALENDAR-COLOR:#000000
@@ -40,14 +40,14 @@ DTSTAMP;TZID=Europe/Berlin:20260117T052858
 DTSTART;TZID=Europe/Berlin:20260915T170000
 DTEND;TZID=Europe/Berlin:20260916T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-SUMMARY;LANGUAGE=de:Verkehrsausschuss
-LOCATION;LANGUAGE=de:Sitzungssaal Reiterweg
+SUMMARY;LANGUAGE=de:Betriebsausschuss Seniorenzentrum Waldstadt Iserlohn
+LOCATION;LANGUAGE=de:Veranstaltungsraum des Seniorenzentrum Waldstadt Iserlohn\, Alexanderstraße 1\, 58644 Iserlohn
 DESCRIPTION;LANGUAGE=de:Exportiert am 17.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=15&MM=9&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=15&MM=9&YY=2026
 
 END:VEVENT
 BEGIN:VEVENT
-UID:ALLRIS-Sitzung-2002655
+UID:ALLRIS-Sitzung-2002650
 PRIORITY:2
 CLASS:PUBLIC
 X-APPLE-CALENDAR-COLOR:#000000
@@ -55,17 +55,17 @@ X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
 DTSTAMP;TZID=Europe/Berlin:20260117T052858
-DTSTART;TZID=Europe/Berlin:20260611T170000
-DTEND;TZID=Europe/Berlin:20260612T000000
+DTSTART;TZID=Europe/Berlin:20260512T170000
+DTEND;TZID=Europe/Berlin:20260513T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-SUMMARY;LANGUAGE=de:Verkehrsausschuss
-LOCATION;LANGUAGE=de:Sitzungssaal Reiterweg
-DESCRIPTION;LANGUAGE=de:Exportiert am 17.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=11&MM=6&YY=2026
-URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=11&MM=6&YY=2026
+SUMMARY;LANGUAGE=de:Betriebsausschuss Seniorenzentrum Waldstadt Iserlohn
+LOCATION;LANGUAGE=de:Veranstaltungsraum des Seniorenzentrum Waldstadt Iserlohn\, Alexanderstraße 1\, 58644 Iserlohn
+DESCRIPTION;LANGUAGE=de:Exportiert am 17.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=12&MM=5&YY=2026
+URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=12&MM=5&YY=2026
 
 END:VEVENT
 BEGIN:VEVENT
-UID:ALLRIS-Sitzung-2002643
+UID:ALLRIS-Sitzung-2002639
 PRIORITY:2
 CLASS:PUBLIC
 X-APPLE-CALENDAR-COLOR:#000000
@@ -73,31 +73,13 @@ X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
 DTSTAMP;TZID=Europe/Berlin:20260117T052858
-DTSTART;TZID=Europe/Berlin:20260324T170000
-DTEND;TZID=Europe/Berlin:20260325T000000
+DTSTART;TZID=Europe/Berlin:20260303T170000
+DTEND;TZID=Europe/Berlin:20260304T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-SUMMARY;LANGUAGE=de:Verkehrsausschuss
-LOCATION;LANGUAGE=de:Sitzungssaal Reiterweg
-DESCRIPTION;LANGUAGE=de:Exportiert am 17.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=24&MM=3&YY=2026
-URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=24&MM=3&YY=2026
-
-END:VEVENT
-BEGIN:VEVENT
-UID:ALLRIS-Sitzung-2002524
-PRIORITY:2
-CLASS:PUBLIC
-X-APPLE-CALENDAR-COLOR:#000000
-X-OUTLOOK-COLOR:#000000
-X-FUNAMBOL-COLOR:#000000
-X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260117T052858
-DTSTART;TZID=Europe/Berlin:20260121T170000
-DTEND;TZID=Europe/Berlin:20260122T000000
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-SUMMARY;LANGUAGE=de:Verkehrsausschuss
-LOCATION;LANGUAGE=de:Saalbau Letmathe
-DESCRIPTION;LANGUAGE=de:Exportiert am 17.01.2026\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002524
-URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002524
+SUMMARY;LANGUAGE=de:Betriebsausschuss Seniorenzentrum Waldstadt Iserlohn
+LOCATION;LANGUAGE=de:Veranstaltungsraum des Seniorenzentrum Waldstadt Iserlohn\, Alexanderstraße 1\, 58644 Iserlohn
+DESCRIPTION;LANGUAGE=de:Exportiert am 17.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=3&MM=3&YY=2026
+URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=3&MM=3&YY=2026
 
 END:VEVENT
 END:VCALENDAR

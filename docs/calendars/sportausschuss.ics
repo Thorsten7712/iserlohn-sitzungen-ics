@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260116T061759
+DTSTAMP;TZID=Europe/Berlin:20260117T052858
 DTSTART;TZID=Europe/Berlin:20260210T170000
 DTEND;TZID=Europe/Berlin:20260211T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Sportausschuss
 LOCATION;LANGUAGE=de:Sportplatz Dröschede\, Am Südenberg 36a\, 58644 Iserlohn
-DESCRIPTION;LANGUAGE=de:Exportiert am 16.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=10&MM=2&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 17.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=10&MM=2&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=10&MM=2&YY=2026
 
 END:VEVENT
@@ -36,13 +36,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260116T061759
+DTSTAMP;TZID=Europe/Berlin:20260117T052858
 DTSTART;TZID=Europe/Berlin:20260205T170000
 DTEND;TZID=Europe/Berlin:20260206T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Sportausschuss
 LOCATION;LANGUAGE=de:Saalbau Letmathe
-DESCRIPTION;LANGUAGE=de:Exportiert am 16.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=5&MM=2&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 17.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=5&MM=2&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=5&MM=2&YY=2026
 
 END:VEVENT
