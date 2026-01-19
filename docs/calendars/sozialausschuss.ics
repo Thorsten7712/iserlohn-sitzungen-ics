@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260118T061632
+DTSTAMP;TZID=Europe/Berlin:20260119T054740
 DTSTART;TZID=Europe/Berlin:20261118T170000
 DTEND;TZID=Europe/Berlin:20261119T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Sozialausschuss
 LOCATION;LANGUAGE=de:Sitzungssaal Reiterweg
-DESCRIPTION;LANGUAGE=de:Exportiert am 18.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=18&MM=11&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 19.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=18&MM=11&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=18&MM=11&YY=2026
 
 END:VEVENT
@@ -36,13 +36,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260118T061632
+DTSTAMP;TZID=Europe/Berlin:20260119T054740
 DTSTART;TZID=Europe/Berlin:20260909T170000
 DTEND;TZID=Europe/Berlin:20260910T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Sozialausschuss
 LOCATION;LANGUAGE=de:Sitzungssaal Reiterweg
-DESCRIPTION;LANGUAGE=de:Exportiert am 18.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=9&MM=9&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 19.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=9&MM=9&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=9&MM=9&YY=2026
 
 END:VEVENT
@@ -54,13 +54,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260118T061632
+DTSTAMP;TZID=Europe/Berlin:20260119T054740
 DTSTART;TZID=Europe/Berlin:20260702T170000
 DTEND;TZID=Europe/Berlin:20260703T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Sozialausschuss
 LOCATION;LANGUAGE=de:Sitzungssaal Reiterweg
-DESCRIPTION;LANGUAGE=de:Exportiert am 18.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=2&MM=7&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 19.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=2&MM=7&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=2&MM=7&YY=2026
 
 END:VEVENT
@@ -72,13 +72,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260118T061632
+DTSTAMP;TZID=Europe/Berlin:20260119T054740
 DTSTART;TZID=Europe/Berlin:20260312T170000
 DTEND;TZID=Europe/Berlin:20260313T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Sozialausschuss
 LOCATION;LANGUAGE=de:Sitzungssaal Reiterweg
-DESCRIPTION;LANGUAGE=de:Exportiert am 18.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=12&MM=3&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 19.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=12&MM=3&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=12&MM=3&YY=2026
 
 END:VEVENT
@@ -90,13 +90,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260118T061632
+DTSTAMP;TZID=Europe/Berlin:20260119T054740
 DTSTART;TZID=Europe/Berlin:20260120T170000
 DTEND;TZID=Europe/Berlin:20260121T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Sozialausschuss
 LOCATION;LANGUAGE=de:Saalbau Letmathe
-DESCRIPTION;LANGUAGE=de:Exportiert am 18.01.2026\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002531
+DESCRIPTION;LANGUAGE=de:Exportiert am 19.01.2026\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002531
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002531
 
 END:VEVENT
