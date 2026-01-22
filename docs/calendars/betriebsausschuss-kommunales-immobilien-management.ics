@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260121T062143
+DTSTAMP;TZID=Europe/Berlin:20260122T054345
 DTSTART;TZID=Europe/Berlin:20261210T170000
 DTEND;TZID=Europe/Berlin:20261211T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Betriebsausschuss Kommunales Immobilien Management
 LOCATION;LANGUAGE=de:Sitzungssaal Reiterweg
-DESCRIPTION;LANGUAGE=de:Exportiert am 21.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=10&MM=12&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 22.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=10&MM=12&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=10&MM=12&YY=2026
 
 END:VEVENT
@@ -36,13 +36,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260121T062143
+DTSTAMP;TZID=Europe/Berlin:20260122T054345
 DTSTART;TZID=Europe/Berlin:20261008T170000
 DTEND;TZID=Europe/Berlin:20261009T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Betriebsausschuss Kommunales Immobilien Management
 LOCATION;LANGUAGE=de:Sitzungssaal Reiterweg
-DESCRIPTION;LANGUAGE=de:Exportiert am 21.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=8&MM=10&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 22.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=8&MM=10&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=8&MM=10&YY=2026
 
 END:VEVENT
@@ -54,13 +54,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260121T062143
+DTSTAMP;TZID=Europe/Berlin:20260122T054345
 DTSTART;TZID=Europe/Berlin:20260415T170000
 DTEND;TZID=Europe/Berlin:20260416T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Betriebsausschuss Kommunales Immobilien Management
 LOCATION;LANGUAGE=de:Sitzungssaal Reiterweg
-DESCRIPTION;LANGUAGE=de:Exportiert am 21.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=15&MM=4&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 22.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=15&MM=4&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=15&MM=4&YY=2026
 
 END:VEVENT
@@ -72,13 +72,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260121T062143
+DTSTAMP;TZID=Europe/Berlin:20260122T054345
 DTSTART;TZID=Europe/Berlin:20260114T170000
 DTEND;TZID=Europe/Berlin:20260114T180300
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Betriebsausschuss Kommunales Immobilien Management
 LOCATION;LANGUAGE=de:Saalbau Letmathe
-DESCRIPTION;LANGUAGE=de:Exportiert am 21.01.2026\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002530
+DESCRIPTION;LANGUAGE=de:Exportiert am 22.01.2026\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002530
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002530
 
 END:VEVENT

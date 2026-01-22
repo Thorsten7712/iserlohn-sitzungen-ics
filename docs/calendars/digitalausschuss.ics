@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260121T062143
+DTSTAMP;TZID=Europe/Berlin:20260122T054345
 DTSTART;TZID=Europe/Berlin:20261105T170000
 DTEND;TZID=Europe/Berlin:20261106T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Digitalausschuss
 LOCATION;LANGUAGE=de:Sitzungssaal Reiterweg
-DESCRIPTION;LANGUAGE=de:Exportiert am 21.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=5&MM=11&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 22.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=5&MM=11&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=5&MM=11&YY=2026
 
 END:VEVENT
@@ -36,13 +36,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260121T062143
+DTSTAMP;TZID=Europe/Berlin:20260122T054345
 DTSTART;TZID=Europe/Berlin:20260423T170000
 DTEND;TZID=Europe/Berlin:20260424T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Digitalausschuss
 LOCATION;LANGUAGE=de:Sitzungssaal Reiterweg
-DESCRIPTION;LANGUAGE=de:Exportiert am 21.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=23&MM=4&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 22.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=23&MM=4&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=23&MM=4&YY=2026
 
 END:VEVENT
@@ -54,13 +54,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260121T062143
+DTSTAMP;TZID=Europe/Berlin:20260122T054345
 DTSTART;TZID=Europe/Berlin:20260122T170000
 DTEND;TZID=Europe/Berlin:20260123T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Digitalausschuss
 LOCATION;LANGUAGE=de:Saalbau Letmathe
-DESCRIPTION;LANGUAGE=de:Exportiert am 21.01.2026\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002533
+DESCRIPTION;LANGUAGE=de:Exportiert am 22.01.2026\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002533
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002533
 
 END:VEVENT
