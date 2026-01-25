@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260124T061428
+DTSTAMP;TZID=Europe/Berlin:20260125T054832
 DTSTART;TZID=Europe/Berlin:20261103T170000
 DTEND;TZID=Europe/Berlin:20261104T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Ausschuss für Chancengerechtigkeit und Integration
 LOCATION;LANGUAGE=de:Sitzungssaal Reiterweg
-DESCRIPTION;LANGUAGE=de:Exportiert am 24.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=3&MM=11&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 25.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=3&MM=11&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=3&MM=11&YY=2026
 
 END:VEVENT
@@ -36,13 +36,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260124T061428
+DTSTAMP;TZID=Europe/Berlin:20260125T054832
 DTSTART;TZID=Europe/Berlin:20260624T170000
 DTEND;TZID=Europe/Berlin:20260625T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Ausschuss für Chancengerechtigkeit und Integration
 LOCATION;LANGUAGE=de:Sitzungssaal Reiterweg
-DESCRIPTION;LANGUAGE=de:Exportiert am 24.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=24&MM=6&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 25.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=24&MM=6&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=24&MM=6&YY=2026
 
 END:VEVENT
@@ -54,13 +54,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260124T061428
+DTSTAMP;TZID=Europe/Berlin:20260125T054832
 DTSTART;TZID=Europe/Berlin:20260326T170000
 DTEND;TZID=Europe/Berlin:20260327T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Ausschuss für Chancengerechtigkeit und Integration
 LOCATION;LANGUAGE=de:Sitzungssaal Reiterweg
-DESCRIPTION;LANGUAGE=de:Exportiert am 24.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=26&MM=3&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 25.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=26&MM=3&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=26&MM=3&YY=2026
 
 END:VEVENT
@@ -72,13 +72,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260124T061428
+DTSTAMP;TZID=Europe/Berlin:20260125T054832
 DTSTART;TZID=Europe/Berlin:20260113T170000
 DTEND;TZID=Europe/Berlin:20260113T180500
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Ausschuss für Chancengerechtigkeit und Integration
 LOCATION;LANGUAGE=de:KAI
-DESCRIPTION;LANGUAGE=de:Exportiert am 24.01.2026\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002553
+DESCRIPTION;LANGUAGE=de:Exportiert am 25.01.2026\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002553
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002553
 
 END:VEVENT
@@ -90,13 +90,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260124T061428
+DTSTAMP;TZID=Europe/Berlin:20260125T054832
 DTSTART;TZID=Europe/Berlin:20251211T170000
 DTEND;TZID=Europe/Berlin:20251211T183000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Ausschuss für Chancengerechtigkeit und Integration
 LOCATION;LANGUAGE=de:Ratssaal des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 24.01.2026\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002518
+DESCRIPTION;LANGUAGE=de:Exportiert am 25.01.2026\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002518
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002518
 
 END:VEVENT
