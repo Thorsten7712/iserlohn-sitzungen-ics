@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260125T062145
+DTSTAMP;TZID=Europe/Berlin:20260126T055220
 DTSTART;TZID=Europe/Berlin:20261111T170000
 DTEND;TZID=Europe/Berlin:20261112T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Rechnungsprüfungsausschuss
 LOCATION;LANGUAGE=de:Sitzungssaal Reiterweg
-DESCRIPTION;LANGUAGE=de:Exportiert am 25.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=11&MM=11&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 26.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=11&MM=11&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=11&MM=11&YY=2026
 
 END:VEVENT
@@ -36,13 +36,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260125T062145
+DTSTAMP;TZID=Europe/Berlin:20260126T055220
 DTSTART;TZID=Europe/Berlin:20260701T170000
 DTEND;TZID=Europe/Berlin:20260702T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Rechnungsprüfungsausschuss
 LOCATION;LANGUAGE=de:Sitzungssaal Reiterweg
-DESCRIPTION;LANGUAGE=de:Exportiert am 25.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=1&MM=7&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 26.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=1&MM=7&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=1&MM=7&YY=2026
 
 END:VEVENT
@@ -54,13 +54,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260125T062145
+DTSTAMP;TZID=Europe/Berlin:20260126T055220
 DTSTART;TZID=Europe/Berlin:20260317T170000
 DTEND;TZID=Europe/Berlin:20260318T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Rechnungsprüfungsausschuss
 LOCATION;LANGUAGE=de:Sitzungssaal Reiterweg
-DESCRIPTION;LANGUAGE=de:Exportiert am 25.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=17&MM=3&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 26.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=17&MM=3&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=17&MM=3&YY=2026
 
 END:VEVENT
