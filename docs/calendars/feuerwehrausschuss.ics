@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260128T062058
+DTSTAMP;TZID=Europe/Berlin:20260129T060306
 DTSTART;TZID=Europe/Berlin:20261204T170000
 DTEND;TZID=Europe/Berlin:20261205T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Feuerwehrausschuss
 LOCATION;LANGUAGE=de:
-DESCRIPTION;LANGUAGE=de:Exportiert am 28.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=4&MM=12&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 29.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=4&MM=12&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=4&MM=12&YY=2026
 
 END:VEVENT
@@ -36,13 +36,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260128T062058
+DTSTAMP;TZID=Europe/Berlin:20260129T060306
 DTSTART;TZID=Europe/Berlin:20260917T170000
 DTEND;TZID=Europe/Berlin:20260918T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Feuerwehrausschuss
 LOCATION;LANGUAGE=de:Mehrzweckraum der Feuerwache\, Dortmunder Str. 112
-DESCRIPTION;LANGUAGE=de:Exportiert am 28.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=17&MM=9&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 29.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=17&MM=9&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=17&MM=9&YY=2026
 
 END:VEVENT
@@ -54,13 +54,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260128T062058
+DTSTAMP;TZID=Europe/Berlin:20260129T060306
 DTSTART;TZID=Europe/Berlin:20260513T170000
 DTEND;TZID=Europe/Berlin:20260514T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Feuerwehrausschuss
 LOCATION;LANGUAGE=de:Mehrzweckraum der Feuerwache\, Dortmunder Str. 112
-DESCRIPTION;LANGUAGE=de:Exportiert am 28.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=13&MM=5&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 29.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=13&MM=5&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=13&MM=5&YY=2026
 
 END:VEVENT
@@ -72,13 +72,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260128T062058
+DTSTAMP;TZID=Europe/Berlin:20260129T060306
 DTSTART;TZID=Europe/Berlin:20260115T170000
 DTEND;TZID=Europe/Berlin:20260115T183700
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Feuerwehrausschuss
 LOCATION;LANGUAGE=de:Saalbau Letmathe
-DESCRIPTION;LANGUAGE=de:Exportiert am 28.01.2026\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002523
+DESCRIPTION;LANGUAGE=de:Exportiert am 29.01.2026\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002523
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002523
 
 END:VEVENT

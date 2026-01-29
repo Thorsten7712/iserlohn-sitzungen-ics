@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260128T062058
+DTSTAMP;TZID=Europe/Berlin:20260129T060306
 DTSTART;TZID=Europe/Berlin:20261104T170000
 DTEND;TZID=Europe/Berlin:20261105T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Seniorenbeirat
 LOCATION;LANGUAGE=de:Sitzungssaal Reiterweg
-DESCRIPTION;LANGUAGE=de:Exportiert am 28.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=4&MM=11&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 29.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=4&MM=11&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=4&MM=11&YY=2026
 
 END:VEVENT
@@ -36,13 +36,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260128T062058
+DTSTAMP;TZID=Europe/Berlin:20260129T060306
 DTSTART;TZID=Europe/Berlin:20260902T170000
 DTEND;TZID=Europe/Berlin:20260903T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Seniorenbeirat
 LOCATION;LANGUAGE=de:Sitzungssaal Reiterweg
-DESCRIPTION;LANGUAGE=de:Exportiert am 28.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=2&MM=9&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 29.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=2&MM=9&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=2&MM=9&YY=2026
 
 END:VEVENT
@@ -54,13 +54,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260128T062058
+DTSTAMP;TZID=Europe/Berlin:20260129T060306
 DTSTART;TZID=Europe/Berlin:20260428T170000
 DTEND;TZID=Europe/Berlin:20260429T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Seniorenbeirat
 LOCATION;LANGUAGE=de:Sitzungssaal Reiterweg
-DESCRIPTION;LANGUAGE=de:Exportiert am 28.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=28&MM=4&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 29.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=28&MM=4&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=28&MM=4&YY=2026
 
 END:VEVENT

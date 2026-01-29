@@ -18,13 +18,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260128T062058
+DTSTAMP;TZID=Europe/Berlin:20260129T060306
 DTSTART;TZID=Europe/Berlin:20261112T170000
 DTEND;TZID=Europe/Berlin:20261113T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Beirat für Inklusion
 LOCATION;LANGUAGE=de:KAI
-DESCRIPTION;LANGUAGE=de:Exportiert am 28.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=12&MM=11&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 29.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=12&MM=11&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=12&MM=11&YY=2026
 
 END:VEVENT
@@ -36,13 +36,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260128T062058
+DTSTAMP;TZID=Europe/Berlin:20260129T060306
 DTSTART;TZID=Europe/Berlin:20260924T170000
 DTEND;TZID=Europe/Berlin:20260925T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Beirat für Inklusion
 LOCATION;LANGUAGE=de:KAI
-DESCRIPTION;LANGUAGE=de:Exportiert am 28.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=24&MM=9&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 29.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=24&MM=9&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=24&MM=9&YY=2026
 
 END:VEVENT
@@ -54,13 +54,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260128T062058
+DTSTAMP;TZID=Europe/Berlin:20260129T060306
 DTSTART;TZID=Europe/Berlin:20260520T170000
 DTEND;TZID=Europe/Berlin:20260521T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Beirat für Inklusion
 LOCATION;LANGUAGE=de:KAI
-DESCRIPTION;LANGUAGE=de:Exportiert am 28.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=20&MM=5&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 29.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=20&MM=5&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=20&MM=5&YY=2026
 
 END:VEVENT
@@ -72,13 +72,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260128T062058
+DTSTAMP;TZID=Europe/Berlin:20260129T060306
 DTSTART;TZID=Europe/Berlin:20260224T170000
 DTEND;TZID=Europe/Berlin:20260225T000000
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Beirat für Inklusion
 LOCATION;LANGUAGE=de:KAI
-DESCRIPTION;LANGUAGE=de:Exportiert am 28.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=24&MM=2&YY=2026
+DESCRIPTION;LANGUAGE=de:Exportiert am 29.01.2026\n\nSitzungskalender in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/si010?DD=24&MM=2&YY=2026
 URL:https://www.iserlohn.sitzung-online.de/public/si010?DD=24&MM=2&YY=2026
 
 END:VEVENT
@@ -90,13 +90,13 @@ X-APPLE-CALENDAR-COLOR:#000000
 X-OUTLOOK-COLOR:#000000
 X-FUNAMBOL-COLOR:#000000
 X-LOTUS-CHARSET:UTF-8
-DTSTAMP;TZID=Europe/Berlin:20260128T062058
+DTSTAMP;TZID=Europe/Berlin:20260129T060306
 DTSTART;TZID=Europe/Berlin:20251204T170000
 DTEND;TZID=Europe/Berlin:20251204T175500
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 SUMMARY;LANGUAGE=de:Beirat für Inklusion
 LOCATION;LANGUAGE=de:Ratssaal des Rathauses
-DESCRIPTION;LANGUAGE=de:Exportiert am 28.01.2026\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002503
+DESCRIPTION;LANGUAGE=de:Exportiert am 29.01.2026\n\nDie Sitzung in ALLRIS net:\nhttps://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002503
 URL:https://www.iserlohn.sitzung-online.de/public/to010?SILFDNR=2002503
 
 END:VEVENT
